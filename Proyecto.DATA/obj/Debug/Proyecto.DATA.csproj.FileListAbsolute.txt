@@ -1,0 +1,5 @@
+C:\Users\Marcos\Documents\Programacion 5 CONEJO\Proyecto\Proyecto\Proyecto.DATA\bin\Debug\Proyecto.DATA.dll
+C:\Users\Marcos\Documents\Programacion 5 CONEJO\Proyecto\Proyecto\Proyecto.DATA\bin\Debug\Proyecto.DATA.pdb
+C:\Users\Marcos\Documents\Programacion 5 CONEJO\Proyecto\Proyecto\Proyecto.DATA\obj\Debug\Proyecto.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\Programacion 5 CONEJO\Proyecto\Proyecto\Proyecto.DATA\obj\Debug\Proyecto.DATA.dll
+C:\Users\Marcos\Documents\Programacion 5 CONEJO\Proyecto\Proyecto\Proyecto.DATA\obj\Debug\Proyecto.DATA.pdb
